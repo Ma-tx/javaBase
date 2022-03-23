@@ -11,6 +11,7 @@ public class CollectionDemo {
     public static void main(String[] args) {
         List<String> list = Collections.unmodifiableList(new ArrayList<String>());
         list.add("dadada");
+        list.add("aaaaaaawwwww");
 
 
     }
