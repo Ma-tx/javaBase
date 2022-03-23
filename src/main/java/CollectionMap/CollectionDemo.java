@@ -15,6 +15,7 @@ public class CollectionDemo {
         list.add("ssssssss");
         list.add("hotfix");
         list.add("masterTest");
+        list.add("hotfixTest");
 
 
     }
