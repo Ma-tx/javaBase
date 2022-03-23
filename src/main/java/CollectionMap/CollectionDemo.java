@@ -14,6 +14,7 @@ public class CollectionDemo {
         list.add("aaaaaaawwwww");
         list.add("ssssssss");
         list.add("hotfix");
+        list.add("hotfixTest");
 
 
     }
