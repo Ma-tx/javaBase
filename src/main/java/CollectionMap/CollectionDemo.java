@@ -12,6 +12,7 @@ public class CollectionDemo {
         List<String> list = Collections.unmodifiableList(new ArrayList<String>());
         list.add("dadada");
         list.add("aaaaaaawwwww");
+        list.add("ssssssss");
 
 
     }
