@@ -13,6 +13,7 @@ public class CollectionDemo {
         list.add("dadada");
         list.add("aaaaaaawwwww");
         list.add("ssssssss");
+        list.add("hotfix");
 
 
     }
